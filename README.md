@@ -10,4 +10,5 @@ ai agent
     - [x] 提出ReAct-Style Agent 
 - [x] 4/3, 下午观看视频
   - [x] 看视频: https://www.youtube.com/watch?v=pjxQVn9jeCs&list=PLgy71-0-2-F3gD9gHydQENMWduSpVzpZB&index=6
-    - [x] 可以用openai的全家的视频做东西, llm agent生成文字, 文字喂给SD生成图片, 再用vison agent去理解, 不断迭代就对文字的语义更好理解  
+    - [x] 可以用openai的全家的视频做东西, llm agent生成文字, 文字喂给SD生成图片, 再用vison agent去理解, 不断迭代就对文字的语义更好理解
+    - [x] 各种各样的agent工具八仙过海武装我们, 利用自己的思维规律更好地做事情达成目的 
