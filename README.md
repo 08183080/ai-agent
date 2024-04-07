@@ -17,3 +17,4 @@ ai agent
 - [ ] lover-agent, 恋爱助手
 - [ ] bios-agent, bios的debug助手
 - [ ] bug-agent, 帮助分析错误日志log
+- [ ] psychologist-agent, 心理助手
